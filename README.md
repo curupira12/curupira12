@@ -23,5 +23,8 @@ Aqui você encontra meus projetos em **Python**, **HTML/CSS** e o que eu estiver
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curupira12&layout=compact&theme=radical)
 
 ## 📫 Onde me achar
-- 🔗 Portfólio / Linktree: *coloque aqui quando tiver*
-- ✉️ Contato: *seu email aqui*
+- 🔗 Portfólio / LinkBio: (https://linkbio.co/daviseizes)
+- ✉️ Contato: *davi.bayfox@gmail.com*
+
+Programe, se não for reprograme
+
