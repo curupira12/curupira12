@@ -1,7 +1,7 @@
 <!-- Banner opcional: troque pela sua imagem -->
 <!-- <img src="https://i.imgur.com/SEU-BANNER.png" width="100%" /> -->
 
-# Fala aí! Eu sou o Davi (curupira12) 👋
+# Fala aí! Eu sou o Davi (BAYFOX) 👋
 
 Sou apaixonado por tecnologia, UX/UI e desenvolvimento.  
 Aqui você encontra meus projetos em **Python**, **HTML/CSS** e o que eu estiver hackeando no momento. 🎮💻
