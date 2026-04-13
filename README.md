@@ -1,16 +1,18 @@
-<h1 align="center">Olá! Eu sou o Davi (BAYFOX) 👋</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech-UX/UI-blue?style=for-the-badge&logo=codeforces" alt="UX/UI Badge" />
-  <img src="https://img.shields.io/badge/Developer-Python-green?style=for-the-badge&logo=python" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Hacker-At%20Heart-orange?style=for-the-badge&logo=probot" alt="Hacker Badge" />
-</p>
+<div align="center">
+  <h1 align="center">Olá! Eu sou o Davi (BAYFOX) 👋</h1>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Tech-UX/UI-blue?style=for-the-badge&logo=codeforces" alt="UX/UI Badge" />
+    <img src="https://img.shields.io/badge/Developer-Python-green?style=for-the-badge&logo=python" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Hacker-At%20Heart-orange?style=for-the-badge&logo=probot" alt="Hacker Badge" />
+  </p>
+</div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia, UX/UI e desenvolvimento. Minha missão é criar soluções que unem design e código.
+Sou apaixonado por tecnologia, UX/UI e desenvolvimento. Minha missão é criar soluções que unem design intuitivo e código eficiente.
 
 Aqui você encontra meus projetos em Python, HTML/CSS e o que eu estiver hackeando no momento. 🎮💻
 
@@ -41,15 +43,6 @@ Aqui você encontra meus projetos em Python, HTML/CSS e o que eu estiver hackean
   <summary>🔜 <strong>Figma + Integrações (Em breve!)</strong></summary>
   <p>Projetos focados em transformar designs de alta fidelidade do Figma em interfaces web interativas.</p>
 </details>
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=curupira12&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curupira12&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-</div>
 
 ---
 
