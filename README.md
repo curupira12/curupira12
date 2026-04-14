@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./terminal_bayfox.gif" width="700"/>
 </p>
-<p align="center">
-  <img src="./terminal_bayfox.gif" width="700"/>
-</p>
 
 <h1 align="center">👋 Olá, eu sou o Davi (BAYFOX)</h1>
 
