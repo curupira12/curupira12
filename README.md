@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./terminal_bayfox.gif" width="700"/>
+  <img src="./terminal_bayfox.gif" width="400"/>
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Davi (BAYFOX)</h1>
