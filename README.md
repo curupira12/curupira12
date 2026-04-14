@@ -5,23 +5,40 @@
 <h1 align="center">👋 Olá, eu sou o Davi (BAYFOX)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=RF+Specialist;Telecom+Engineer;Intercom+Expert;LTE+Student;20%2B+Years+Experience">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=RF+Specialist;Telecom+Engineer;Intercom+Expert;AI+Enthusiast;Android+Developer;React+Developer;Database+Engineer;20%2B+Years+Experience">
 </p>
 
 ---
 
 ## 🖥️ Meu Terminal
 
-```json id="terminal-code"
+```json id="terminal-final"
 {
   "name": "Davi (BAYFOX)",
-  "role": "RF & Telecom Specialist",
+  "role": "RF, Telecom, AI & Database Specialist",
   "experience": "20+ years",
   "focus": [
     "Radio Communication",
     "Intercom Systems",
     "RF Coverage",
-    "LTE 4G"
+    "LTE 4G",
+    "Artificial Intelligence",
+    "Mobile Development",
+    "Database Systems"
+  ],
+  "tools": [
+    "Android Studio",
+    "VS Code",
+    "Firebase"
+  ],
+  "stack": [
+    "React",
+    "Python"
+  ],
+  "databases": [
+    "SQLite",
+    "PostgreSQL",
+    "Firebase Realtime DB"
   ],
   "equipment": [
     "Hollyland T1000",
@@ -30,7 +47,7 @@
     "C1 Pro Roaming"
   ],
   "learning": [
-    "Python",
+    "AI",
     "Networking",
     "Cybersecurity"
   ]
@@ -52,10 +69,34 @@
 
 ---
 
-### 💻 Desenvolvimento
+### 🤖 Inteligência Artificial
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</p>
+
+---
+
+### 📱 Mobile & Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,androidstudio"/>
+</p>
+
+---
+
+### 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,postgres,sqlite"/>
+</p>
+
+---
+
+### 💻 Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
 </p>
 
 ---
@@ -74,6 +115,9 @@
 * 🎧 Sistemas de intercom profissional
 * 🔧 Programação de rádios HT e DMR
 * 🏢 Estruturação de redes corporativas
+* 🤖 Projetos com IA aplicada
+* 📱 Aplicações Android
+* 🗄️ Integração com banco de dados (Firebase / SQL)
 
 ---
 
@@ -83,9 +127,10 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,python"/>
 </p>
 
-* LTE / 4G
+* Inteligência Artificial
 * Engenharia da Computação
 * Segurança de redes
+* Arquitetura de bancos de dados
 
 ---
 
