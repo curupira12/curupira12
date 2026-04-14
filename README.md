@@ -1,10 +1,12 @@
-<h1 align="center">Olá, Eu sou o Davi (BAYFOX) 👋</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech-UX/UI-blue?style=for-the-badge&logo=codeforces" alt="UX/UI Badge" />
-  <img src="https://img.shields.io/badge/Developer-Python-green?style=for-the-badge&logo=python" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Hacker-At%20Heart-orange?style=for-the-badge&logo=probot" alt="Hacker Badge" />
-</p>
+<div align="center">
+  <h1 align="center">Olá! Eu sou o Davi (BAYFOX) 👋</h1>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Tech-UX/UI-blue?style=for-the-badge&logo=codeforces" alt="UX/UI Badge" />
+    <img src="https://img.shields.io/badge/Developer-Python-green?style=for-the-badge&logo=python" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Hacker-At%20Heart-orange?style=for-the-badge&logo=probot" alt="Hacker Badge" />
+  </p>
+</div>
 
 ---
 
