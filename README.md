@@ -146,4 +146,4 @@
 
 ## ⚡ Frase
 
-> Comunicação não pode falhar. Se falhar, não é profissional.
+> Programe. Se não for, reprograme
